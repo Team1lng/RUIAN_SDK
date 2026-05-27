@@ -1,0 +1,1 @@
+cmd_vmlinux := /bin/bash /home/leo/workspace/ruian_2wire/common/AK37E_SDK_V1.05_new/os/kernel/scripts/link-vmlinux.sh arm-anykav500-linux-uclibcgnueabi-ld -EL  -p --no-undefined -X --pic-veneer --build-id

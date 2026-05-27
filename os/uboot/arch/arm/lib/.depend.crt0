@@ -1,0 +1,14 @@
+crt0.o: crt0.S \
+ /home/leo/workspace/ruian_2wire/common/AK37E_SDK_V1.05_new/os/uboot/include/config.h \
+ /home/leo/workspace/ruian_2wire/common/AK37E_SDK_V1.05_new/os/uboot/include/config_cmd_defaults.h \
+ /home/leo/workspace/ruian_2wire/common/AK37E_SDK_V1.05_new/os/uboot/include/config_defaults.h \
+ /home/leo/workspace/ruian_2wire/common/AK37E_SDK_V1.05_new/os/uboot/include/configs/anycloud_ak37e.h \
+ /home/leo/workspace/ruian_2wire/common/AK37E_SDK_V1.05_new/os/uboot/include/configs/ak_board.h \
+ /home/leo/workspace/ruian_2wire/common/AK37E_SDK_V1.05_new/os/uboot/include/asm/config.h \
+ /home/leo/workspace/ruian_2wire/common/AK37E_SDK_V1.05_new/os/uboot/include/config_fallbacks.h \
+ /home/leo/workspace/ruian_2wire/common/AK37E_SDK_V1.05_new/os/uboot/include/config_uncmd_spl.h \
+ /home/leo/workspace/ruian_2wire/common/AK37E_SDK_V1.05_new/os/uboot/include/asm-offsets.h \
+ /home/leo/workspace/ruian_2wire/common/AK37E_SDK_V1.05_new/os/uboot/include/generated/generic-asm-offsets.h \
+ /home/leo/workspace/ruian_2wire/common/AK37E_SDK_V1.05_new/os/uboot/include/linux/linkage.h \
+ /home/leo/workspace/ruian_2wire/common/AK37E_SDK_V1.05_new/os/uboot/include/asm/linkage.h \
+ /home/leo/workspace/ruian_2wire/common/AK37E_SDK_V1.05_new/os/uboot/include/linux/config.h

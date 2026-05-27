@@ -1,0 +1,11 @@
+EVB_CBDM_AK3760E_V1.0.1.o: \
+ /home/leo/workspace/ruian_2wire/common/AK37E_SDK_V1.05_new/os/kernel/arch/arm/boot/dts/EVB_CBDM_AK3760E_V1.0.1.dts \
+ /home/leo/workspace/ruian_2wire/common/AK37E_SDK_V1.05_new/os/kernel/arch/arm/boot/dts/anycloud_ak37e.dtsi \
+ /home/leo/workspace/ruian_2wire/common/AK37E_SDK_V1.05_new/os/kernel/arch/arm/boot/dts/anycloud_ak37e_common.dtsi \
+ /home/leo/workspace/ruian_2wire/common/AK37E_SDK_V1.05_new/os/kernel/arch/arm/boot/dts/include/dt-bindings/gpio/gpio.h \
+ /home/leo/workspace/ruian_2wire/common/AK37E_SDK_V1.05_new/os/kernel/arch/arm/boot/dts/include/dt-bindings/clock/ak37e-clock.h \
+ /home/leo/workspace/ruian_2wire/common/AK37E_SDK_V1.05_new/os/kernel/arch/arm/boot/dts/anycloud_ak37e_pinctrl.dtsi \
+ /home/leo/workspace/ruian_2wire/common/AK37E_SDK_V1.05_new/os/kernel/arch/arm/boot/dts/include/dt-bindings/pinctrl/ak_37e_pinctrl.h \
+ /home/leo/workspace/ruian_2wire/common/AK37E_SDK_V1.05_new/os/kernel/arch/arm/boot/dts/anycloud_norflash.dtsi \
+ /home/leo/workspace/ruian_2wire/common/AK37E_SDK_V1.05_new/os/kernel/arch/arm/boot/dts/anycloud_nandflash.dtsi \
+ /home/leo/workspace/ruian_2wire/common/AK37E_SDK_V1.05_new/os/kernel/arch/arm/boot/dts/anycloud_lcd.dtsi

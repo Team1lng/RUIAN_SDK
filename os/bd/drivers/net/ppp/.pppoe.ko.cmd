@@ -1,0 +1,1 @@
+cmd_drivers/net/ppp/pppoe.ko := arm-anykav500-linux-uclibcgnueabi-ld -EL -r  -T /home/leo/workspace/ruian_2wire/common/AK37E_SDK_V1.05_new/os/kernel/scripts/module-common.lds --build-id  -o drivers/net/ppp/pppoe.ko drivers/net/ppp/pppoe.o drivers/net/ppp/pppoe.mod.o

@@ -1,0 +1,2 @@
+/home/hlf/share/MEIOU/SDK/AK37E_SDK_V1.05/os/driver_src/ak_mmc_hi3881/ak_mmc_src/ak_mci.ko
+/home/hlf/share/MEIOU/SDK/AK37E_SDK_V1.05/os/driver_src/ak_mmc_hi3881/ak_mmc_src/ak_mci.o

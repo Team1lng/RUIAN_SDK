@@ -1,0 +1,4 @@
+relocate.o: relocate.S \
+ /home/cyy/share/Ryan-2Wire/ryan-2wire/ryan-new-app-and-sdk/AK37E_SDK_V1.05_new/os/uboot/include/linux/linkage.h \
+ /home/cyy/share/Ryan-2Wire/ryan-2wire/ryan-new-app-and-sdk/AK37E_SDK_V1.05_new/os/uboot/include/asm/linkage.h \
+ /home/cyy/share/Ryan-2Wire/ryan-2wire/ryan-new-app-and-sdk/AK37E_SDK_V1.05_new/os/uboot/include/linux/config.h

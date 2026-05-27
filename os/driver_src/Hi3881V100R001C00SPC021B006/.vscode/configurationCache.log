@@ -1,0 +1,1 @@
+{"buildTargets":["all","clean","clean_prepare","linux_driver","linux_driver_clean","sample","sample_clean","tools","tools_clean"],"launchTargets":[],"customConfigurationProvider":{"workspaceBrowse":{"browsePath":[],"compilerArgs":[]},"fileIndex":[]}}

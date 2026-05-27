@@ -1,0 +1,11 @@
+=============Burn Information For Channel[2]=============
+Print Time: 2024-10-9 08:51:49
+
+ss g_udisk_burnnum: 0
+[08:51:49]work number = 1
+[08:51:49]burn_mode = 1, eMedium = 1
+[08:51:49]Burn_SetRamParam fail
+[08:51:49]close file
+
+
+

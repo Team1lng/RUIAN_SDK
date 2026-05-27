@@ -1,0 +1,1 @@
+cmd_crypto/af_alg.ko := arm-anykav500-linux-uclibcgnueabi-ld -EL -r  -T /home/leo/workspace/ruian_2wire/common/AK37E_SDK_V1.05_new/os/kernel/scripts/module-common.lds --build-id  -o crypto/af_alg.ko crypto/af_alg.o crypto/af_alg.mod.o

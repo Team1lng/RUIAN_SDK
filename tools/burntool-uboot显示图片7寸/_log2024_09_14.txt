@@ -1,0 +1,38 @@
+
+
+=============Transc Information =============
+Print Time: 2024-09-14 11:12:27
+
+[11:12:27]BT_DriverName_IsCurrentFlag: The driver name is no current pid and  vid
+[11:12:27]BT_DriverName_IsCurrentFlag: The driver name is no current pid and  vid
+[11:14:28]BT_DriverName_IsCurrentFlag: The driver name is no current pid and  vid
+[11:14:28]BT_DriverName_IsCurrentFlag: The driver name is no current pid and  vid
+
+
+=============Transc Information =============
+Print Time: 2024-09-14 17:07:55
+
+[17:07:55]GetLastError
+[17:07:55]USBName:F, idex:5, attachUSB_state:1
+[17:07:56]NULL
+
+
+=============Transc Information =============
+Print Time: 2024-09-14 17:09:54
+
+[17:09:54]BT_DriverName_IsCurrentFlag: The driver name is no current pid and  vid
+[17:09:54]BT_DriverName_IsCurrentFlag: The driver name is no current pid and  vid
+[17:18:41]BT_DriverName_IsCurrentFlag: The driver name is no current pid and  vid
+[17:18:41]BT_DriverName_IsCurrentFlag: The driver name is no current pid and  vid
+[17:50:58]BT_DriverName_IsCurrentFlag: The driver name is no current pid and  vid
+[17:50:58]BT_DriverName_IsCurrentFlag: The driver name is no current pid and  vid
+[17:51:51]BT_DriverName_IsCurrentFlag: The driver name is no current pid and  vid
+[17:51:51]BT_DriverName_IsCurrentFlag: The driver name is no current pid and  vid
+[17:53:41]BT_DriverName_IsCurrentFlag: The driver name is no current pid and  vid
+[17:53:41]BT_DriverName_IsCurrentFlag: The driver name is no current pid and  vid
+[17:54:57]BT_DriverName_IsCurrentFlag: The driver name is no current pid and  vid
+[17:54:57]BT_DriverName_IsCurrentFlag: The driver name is no current pid and  vid
+[17:58:04]BT_DriverName_IsCurrentFlag: The driver name is no current pid and  vid
+[17:58:04]BT_DriverName_IsCurrentFlag: The driver name is no current pid and  vid
+[18:02:01]BT_DriverName_IsCurrentFlag: The driver name is no current pid and  vid
+[18:02:01]BT_DriverName_IsCurrentFlag: The driver name is no current pid and  vid

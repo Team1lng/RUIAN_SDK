@@ -1,0 +1,1 @@
+cmd_net/bridge/br_netfilter.ko := arm-anykav500-linux-uclibcgnueabi-ld -EL -r  -T /home/leo/workspace/ruian_2wire/common/AK37E_SDK_V1.05_new/os/kernel/scripts/module-common.lds --build-id  -o net/bridge/br_netfilter.ko net/bridge/br_netfilter.o net/bridge/br_netfilter.mod.o

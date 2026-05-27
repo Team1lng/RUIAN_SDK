@@ -1,0 +1,2 @@
+compr_rubin.c:46:6:rubin_do_decompress	40	static
+compr_rubin.c:112:6:dynrubin_decompress	16	static

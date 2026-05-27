@@ -1,0 +1,117 @@
+=============Burn Information For Channel[1]=============
+Print Time: 2025-6-20 10:24:15
+
+ss g_udisk_burnnum: 0
+[10:24:15]work number = 1
+[10:24:15]burn_mode = 1, eMedium = 1
+[10:24:15]++Start download producer++
+producer path: producer_39xx.bin, addr=80000000
+[10:24:16]burn_spiflash fail.
+[10:24:16]close file
+
+
+
+=============Burn Information For Channel[1]=============
+Print Time: 2025-6-20 10:24:26
+
+ss g_udisk_burnnum: 0
+[10:24:26]work number = 1
+[10:24:26]burn_mode = 1, eMedium = 1
+[10:24:26]++Start download producer++
+producer path: producer_39xx.bin, addr=80000000
+[10:24:27]burn_spiflash fail.
+[10:24:27]close file
+
+
+
+=============Burn Information For Channel[1]=============
+Print Time: 2025-6-20 10:59:12
+
+ss g_udisk_burnnum: 0
+[10:59:12]work number = 1
+[10:59:12]burn_mode = 1, eMedium = 1
+[10:59:12]++Start download producer++
+producer path: producer_39xx.bin, addr=80000000
+[10:59:13]Burn_TestPCAndProducerConnectOK fail.
+[10:59:13]close file
+
+
+
+=============Burn Information For Channel[1]=============
+Print Time: 2025-6-20 10:59:53
+
+ss g_udisk_burnnum: 0
+[10:59:53]work number = 1
+[10:59:53]burn_mode = 1, eMedium = 1
+[10:59:53]++Start download producer++
+producer path: producer_39xx.bin, addr=80000000
+[10:59:54]burn_spiflash fail.
+[10:59:54]close file
+
+
+
+=============Burn Information For Channel[1]=============
+Print Time: 2025-6-20 11:00:12
+
+ss g_udisk_burnnum: 0
+[11:00:12]work number = 1
+[11:00:12]burn_mode = 1, eMedium = 1
+[11:00:12]++Start download producer++
+producer path: producer_39xx.bin, addr=80000000
+[11:00:13]burn_spiflash fail.
+[11:00:13]close file
+
+
+
+=============Burn Information For Channel[1]=============
+Print Time: 2025-6-20 11:00:27
+
+ss g_udisk_burnnum: 0
+[11:00:27]work number = 1
+[11:00:27]burn_mode = 1, eMedium = 5
+[11:00:27]++Start download producer++
+producer path: producer_39xx.bin, addr=80000000
+[11:00:28]Burn_GetFlashIDAndSetNandParam fail.
+[11:00:28]close file
+
+
+
+=============Burn Information For Channel[1]=============
+Print Time: 2025-6-20 11:00:38
+
+ss g_udisk_burnnum: 0
+[11:00:38]work number = 1
+[11:00:38]burn_mode = 1, eMedium = 5
+[11:00:38]++Start download producer++
+producer path: producer_39xx.bin, addr=80000000
+[11:00:39]Burn_GetFlashIDAndSetNandParam fail.
+[11:00:39]close file
+
+
+
+=============Burn Information For Channel[1]=============
+Print Time: 2025-6-20 11:00:53
+
+ss g_udisk_burnnum: 0
+[11:00:53]work number = 1
+[11:00:53]burn_mode = 1, eMedium = 1
+[11:00:53]++Start download producer++
+producer path: producer_39xx.bin, addr=80000000
+[11:00:54]burn_spiflash fail.
+[11:00:54]close file
+
+
+
+=============Burn Information For Channel[1]=============
+Print Time: 2025-6-20 11:01:07
+
+ss g_udisk_burnnum: 0
+[11:01:07]work number = 1
+[11:01:07]burn_mode = 1, eMedium = 6
+[11:01:08]++Start download producer++
+producer path: producer_39xx.bin, addr=80000000
+[11:01:08]burn_spiflash fail.
+[11:01:08]close file
+
+
+

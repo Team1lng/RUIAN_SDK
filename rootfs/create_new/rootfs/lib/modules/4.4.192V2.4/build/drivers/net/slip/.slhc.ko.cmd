@@ -1,0 +1,1 @@
+cmd_drivers/net/slip/slhc.ko := arm-anykav500-linux-uclibcgnueabi-ld -EL -r  -T /home/leo/workspace/ruian_2wire/common/AK37E_SDK_V1.05_new/os/kernel/scripts/module-common.lds --build-id  -o drivers/net/slip/slhc.ko drivers/net/slip/slhc.o drivers/net/slip/slhc.mod.o

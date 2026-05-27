@@ -1,0 +1,140 @@
+=============Burn Information For Channel[1]=============
+Print Time: 2022-6-14 13:52:05
+
+ss g_udisk_burnnum: 0
+[13:52:05]work number = 1
+[13:52:05]burn_mode = 1, eMedium = 1
+[13:52:05]++Start download producer++
+producer path: producer_39xx.bin, addr=80000000
+[13:52:06]burn_spiflash fail.
+[13:52:06]close file
+
+
+
+=============Burn Information For Channel[1]=============
+Print Time: 2022-6-14 13:54:01
+
+ss g_udisk_burnnum: 0
+[13:54:01]work number = 1
+[13:54:01]burn_mode = 1, eMedium = 1
+[13:54:02]++Start download producer++
+producer path: producer_39xx.bin, addr=80000000
+[13:54:03]burn_spiflash fail.
+[13:54:03]close file
+
+
+
+=============Burn Information For Channel[1]=============
+Print Time: 2022-6-14 13:55:11
+
+ss g_udisk_burnnum: 0
+[13:55:11]work number = 1
+[13:55:11]burn_mode = 1, eMedium = 1
+[13:55:12]++Start download producer++
+producer path: producer_39xx.bin, addr=80000000
+[13:56:20]burn_spiflash fail.
+[13:56:20]close file
+
+
+
+=============Burn Information For Channel[1]=============
+Print Time: 2022-6-14 13:56:25
+
+ss g_udisk_burnnum: 0
+[13:56:25]work number = 1
+[13:56:25]burn_mode = 1, eMedium = 1
+[13:56:25]Burn_GetRegValue fail
+[13:56:25]close file
+
+
+
+=============Burn Information For Channel[1]=============
+Print Time: 2022-6-14 13:58:01
+
+ss g_udisk_burnnum: 0
+[13:58:01]work number = 1
+[13:58:01]burn_mode = 1, eMedium = 1
+[13:58:03]++Start download producer++
+producer path: producer_39xx.bin, addr=80000000
+[13:59:11]burn_spiflash fail.
+[13:59:11]close file
+
+
+
+=============Burn Information For Channel[1]=============
+Print Time: 2022-6-14 13:59:15
+
+ss g_udisk_burnnum: 0
+[13:59:15]work number = 1
+[13:59:15]burn_mode = 1, eMedium = 1
+[13:59:15]Burn_GetRegValue fail
+[13:59:15]close file
+
+
+
+=============Burn Information For Channel[1]=============
+Print Time: 2022-6-14 13:59:58
+
+ss g_udisk_burnnum: 0
+[13:59:58]work number = 1
+[13:59:58]burn_mode = 1, eMedium = 1
+[13:59:58]++Start download producer++
+producer path: producer_39xx.bin, addr=80000000
+[14:01:05]burn_spiflash fail.
+[14:01:05]close file
+
+
+
+=============Burn Information For Channel[1]=============
+Print Time: 2022-6-14 14:01:09
+
+ss g_udisk_burnnum: 0
+[14:01:09]work number = 1
+[14:01:09]burn_mode = 1, eMedium = 1
+[14:01:10]Burn_GetRegValue fail
+[14:01:10]close file
+
+
+
+=============Burn Information For Channel[1]=============
+Print Time: 2022-6-14 14:10:46
+
+ss g_udisk_burnnum: 0
+[14:10:46]work number = 1
+[14:10:46]burn_mode = 1, eMedium = 1
+[14:10:46]++Start download producer++
+producer path: producer_39xx.bin, addr=80000000
+[14:12:21]end work number = 0
+[14:12:21]++Burn success++
+[14:12:21]close file
+
+
+
+=============Burn Information For Channel[1]=============
+Print Time: 2022-6-14 14:46:03
+
+ss g_udisk_burnnum: 0
+[14:46:03]work number = 1
+[14:46:03]burn_mode = 1, eMedium = 1
+[14:46:04]++Start download producer++
+producer path: producer_39xx.bin, addr=80000000
+[14:47:38]end work number = 0
+[14:47:38]++Burn success++
+[14:47:38]close file
+
+
+
+=============Burn Information For Channel[1]=============
+Print Time: 2022-6-14 14:55:01
+
+ss g_udisk_burnnum: 0
+[14:55:01]work number = 1
+[14:55:01]burn_mode = 1, eMedium = 1
+[14:55:01]++Start download producer++
+producer path: producer_39xx.bin, addr=80000000
+[14:56:35]end work number = 0
+[14:56:35]++Burn success++
+[14:56:35]close file
+
+
+

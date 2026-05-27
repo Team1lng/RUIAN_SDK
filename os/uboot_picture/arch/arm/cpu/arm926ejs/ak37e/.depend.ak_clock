@@ -1,0 +1,18 @@
+ak_clock.o: ak_clock.c \
+ /home/cyy/share/Ryan-2Wire/ryan-2wire/ryan-new-app-and-sdk/AK37E_SDK_V1.05_new/os/uboot/include/asm/io.h \
+ /home/cyy/share/Ryan-2Wire/ryan-2wire/ryan-new-app-and-sdk/AK37E_SDK_V1.05_new/os/uboot/include/linux/types.h \
+ /home/cyy/share/Ryan-2Wire/ryan-2wire/ryan-new-app-and-sdk/AK37E_SDK_V1.05_new/os/uboot/include/linux/config.h \
+ /home/cyy/share/Ryan-2Wire/ryan-2wire/ryan-new-app-and-sdk/AK37E_SDK_V1.05_new/os/uboot/include/linux/posix_types.h \
+ /home/cyy/share/Ryan-2Wire/ryan-2wire/ryan-new-app-and-sdk/AK37E_SDK_V1.05_new/os/uboot/include/linux/stddef.h \
+ /home/cyy/share/Ryan-2Wire/ryan-2wire/ryan-new-app-and-sdk/AK37E_SDK_V1.05_new/os/uboot/include/asm/posix_types.h \
+ /home/cyy/share/Ryan-2Wire/ryan-2wire/ryan-new-app-and-sdk/AK37E_SDK_V1.05_new/os/uboot/include/asm/types.h \
+ /opt/arm-anykav500-linux-uclibcgnueabi/lib/gcc/arm-anykav500-linux-uclibcgnueabi/4.9.4/include/stdbool.h \
+ /home/cyy/share/Ryan-2Wire/ryan-2wire/ryan-new-app-and-sdk/AK37E_SDK_V1.05_new/os/uboot/include/asm/byteorder.h \
+ /home/cyy/share/Ryan-2Wire/ryan-2wire/ryan-new-app-and-sdk/AK37E_SDK_V1.05_new/os/uboot/include/linux/byteorder/little_endian.h \
+ /home/cyy/share/Ryan-2Wire/ryan-2wire/ryan-new-app-and-sdk/AK37E_SDK_V1.05_new/os/uboot/include/linux/compiler.h \
+ /home/cyy/share/Ryan-2Wire/ryan-2wire/ryan-new-app-and-sdk/AK37E_SDK_V1.05_new/os/uboot/include/linux/compiler-gcc.h \
+ /home/cyy/share/Ryan-2Wire/ryan-2wire/ryan-new-app-and-sdk/AK37E_SDK_V1.05_new/os/uboot/include/linux/compiler-gcc4.h \
+ /home/cyy/share/Ryan-2Wire/ryan-2wire/ryan-new-app-and-sdk/AK37E_SDK_V1.05_new/os/uboot/include/linux/byteorder/swab.h \
+ /home/cyy/share/Ryan-2Wire/ryan-2wire/ryan-new-app-and-sdk/AK37E_SDK_V1.05_new/os/uboot/include/linux/byteorder/generic.h \
+ /home/cyy/share/Ryan-2Wire/ryan-2wire/ryan-new-app-and-sdk/AK37E_SDK_V1.05_new/os/uboot/include/asm/memory.h \
+ /home/cyy/share/Ryan-2Wire/ryan-2wire/ryan-new-app-and-sdk/AK37E_SDK_V1.05_new/os/uboot/include/asm/arch-ak37e/ak_cpu.h

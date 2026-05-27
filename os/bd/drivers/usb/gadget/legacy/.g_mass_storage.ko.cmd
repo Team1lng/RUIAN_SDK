@@ -1,0 +1,1 @@
+cmd_drivers/usb/gadget/legacy/g_mass_storage.ko := arm-anykav500-linux-uclibcgnueabi-ld -EL -r  -T /home/leo/workspace/ruian_2wire/common/AK37E_SDK_V1.05_new/os/kernel/scripts/module-common.lds --build-id  -o drivers/usb/gadget/legacy/g_mass_storage.ko drivers/usb/gadget/legacy/g_mass_storage.o drivers/usb/gadget/legacy/g_mass_storage.mod.o

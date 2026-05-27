@@ -1,0 +1,14 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory '/home/wuhengbin/Ryan_newarea/AK37E_SDK_V1.05_new/os/driver_src/Hi3881V100R001C00SPC021B006'
+ 
+make -C /home/wuhengbin/Ryan_newarea/AK37E_SDK_V1.05_new/os/driver_src/Hi3881V100R001C00SPC021B006/driver WIFI_DRIVER_DIR=/home/wuhengbin/Ryan_newarea/AK37E_SDK_V1.05_new/os/driver_src/Hi3881V100R001C00SPC021B006/driver CROSS_COMPILE=arm-anykav500-linux-uclibcgnueabi- HISILICON_PLATFORM= KDIR=/home/wuhengbin/Ryan_newarea/AK37E_SDK_V1.05_new/os/driver_src/Hi3881V100R001C00SPC021B006/../../bd/ clean; \
+make -C /home/wuhengbin/Ryan_newarea/AK37E_SDK_V1.05_new/os/driver_src/Hi3881V100R001C00SPC021B006/driver WIFI_DRIVER_DIR=/home/wuhengbin/Ryan_newarea/AK37E_SDK_V1.05_new/os/driver_src/Hi3881V100R001C00SPC021B006/driver CROSS_COMPILE=arm-anykav500-linux-uclibcgnueabi- HISILICON_PLATFORM= KDIR=/home/wuhengbin/Ryan_newarea/AK37E_SDK_V1.05_new/os/driver_src/Hi3881V100R001C00SPC021B006/../../bd/ -j16
+make -C app/demo_linux HISILICON_PLATFORM= all
+ 
+make[1]: Entering directory '/home/wuhengbin/Ryan_newarea/AK37E_SDK_V1.05_new/os/driver_src/Hi3881V100R001C00SPC021B006/app/demo_linux'
+make -C securec all
+make -C interface all
+make -C sample_app all
+make[1]: Leaving directory '/home/wuhengbin/Ryan_newarea/AK37E_SDK_V1.05_new/os/driver_src/Hi3881V100R001C00SPC021B006/app/demo_linux'
+make: Leaving directory '/home/wuhengbin/Ryan_newarea/AK37E_SDK_V1.05_new/os/driver_src/Hi3881V100R001C00SPC021B006'
+ 

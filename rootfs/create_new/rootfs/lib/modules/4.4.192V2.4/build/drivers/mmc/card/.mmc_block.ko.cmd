@@ -1,0 +1,1 @@
+cmd_drivers/mmc/card/mmc_block.ko := arm-anykav500-linux-uclibcgnueabi-ld -EL -r  -T /home/leo/workspace/ruian_2wire/common/AK37E_SDK_V1.05_new/os/kernel/scripts/module-common.lds --build-id  -o drivers/mmc/card/mmc_block.ko drivers/mmc/card/mmc_block.o drivers/mmc/card/mmc_block.mod.o

@@ -1,0 +1,9 @@
+memsize.o: memsize.c \
+ /home/hlf/share/Ryan-2Wire/ryan-2wire/ryan-new-app-and-sdk/AK37E_SDK_V1.05_new/os/uboot/include/config.h \
+ /home/hlf/share/Ryan-2Wire/ryan-2wire/ryan-new-app-and-sdk/AK37E_SDK_V1.05_new/os/uboot/include/config_cmd_defaults.h \
+ /home/hlf/share/Ryan-2Wire/ryan-2wire/ryan-new-app-and-sdk/AK37E_SDK_V1.05_new/os/uboot/include/config_defaults.h \
+ /home/hlf/share/Ryan-2Wire/ryan-2wire/ryan-new-app-and-sdk/AK37E_SDK_V1.05_new/os/uboot/include/configs/anycloud_ak37e.h \
+ /home/hlf/share/Ryan-2Wire/ryan-2wire/ryan-new-app-and-sdk/AK37E_SDK_V1.05_new/os/uboot/include/configs/ak_board.h \
+ /home/hlf/share/Ryan-2Wire/ryan-2wire/ryan-new-app-and-sdk/AK37E_SDK_V1.05_new/os/uboot/include/asm/config.h \
+ /home/hlf/share/Ryan-2Wire/ryan-2wire/ryan-new-app-and-sdk/AK37E_SDK_V1.05_new/os/uboot/include/config_fallbacks.h \
+ /home/hlf/share/Ryan-2Wire/ryan-2wire/ryan-new-app-and-sdk/AK37E_SDK_V1.05_new/os/uboot/include/config_uncmd_spl.h

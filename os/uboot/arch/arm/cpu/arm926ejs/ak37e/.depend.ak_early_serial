@@ -1,0 +1,4 @@
+ak_early_serial.o: ak_early_serial.c \
+ /home/leo/workspace/ruian_2wire/common/AK37E_SDK_V1.05_new/os/uboot/include/asm/arch-ak37e/ak_cpu.h \
+ /home/leo/workspace/ruian_2wire/common/AK37E_SDK_V1.05_new/os/uboot/include/asm/arch-ak37e/ak_l2buf.h \
+ /home/leo/workspace/ruian_2wire/common/AK37E_SDK_V1.05_new/os/uboot/include/asm/arch-ak37e/ak_types.h

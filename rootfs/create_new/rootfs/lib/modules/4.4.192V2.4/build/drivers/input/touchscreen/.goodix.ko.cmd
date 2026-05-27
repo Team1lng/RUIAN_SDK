@@ -1,0 +1,1 @@
+cmd_drivers/input/touchscreen/goodix.ko := arm-anykav500-linux-uclibcgnueabi-ld -EL -r  -T /home/leo/workspace/ruian_2wire/common/AK37E_SDK_V1.05_new/os/kernel/scripts/module-common.lds --build-id  -o drivers/input/touchscreen/goodix.ko drivers/input/touchscreen/goodix.o drivers/input/touchscreen/goodix.mod.o

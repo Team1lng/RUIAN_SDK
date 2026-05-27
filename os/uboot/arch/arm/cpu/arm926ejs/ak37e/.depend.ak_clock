@@ -1,0 +1,18 @@
+ak_clock.o: ak_clock.c \
+ /home/leo/workspace/ruian_2wire/common/AK37E_SDK_V1.05_new/os/uboot/include/asm/io.h \
+ /home/leo/workspace/ruian_2wire/common/AK37E_SDK_V1.05_new/os/uboot/include/linux/types.h \
+ /home/leo/workspace/ruian_2wire/common/AK37E_SDK_V1.05_new/os/uboot/include/linux/config.h \
+ /home/leo/workspace/ruian_2wire/common/AK37E_SDK_V1.05_new/os/uboot/include/linux/posix_types.h \
+ /home/leo/workspace/ruian_2wire/common/AK37E_SDK_V1.05_new/os/uboot/include/linux/stddef.h \
+ /home/leo/workspace/ruian_2wire/common/AK37E_SDK_V1.05_new/os/uboot/include/asm/posix_types.h \
+ /home/leo/workspace/ruian_2wire/common/AK37E_SDK_V1.05_new/os/uboot/include/asm/types.h \
+ /opt/arm-anykav500-linux-uclibcgnueabi/lib/gcc/arm-anykav500-linux-uclibcgnueabi/4.9.4/include/stdbool.h \
+ /home/leo/workspace/ruian_2wire/common/AK37E_SDK_V1.05_new/os/uboot/include/asm/byteorder.h \
+ /home/leo/workspace/ruian_2wire/common/AK37E_SDK_V1.05_new/os/uboot/include/linux/byteorder/little_endian.h \
+ /home/leo/workspace/ruian_2wire/common/AK37E_SDK_V1.05_new/os/uboot/include/linux/compiler.h \
+ /home/leo/workspace/ruian_2wire/common/AK37E_SDK_V1.05_new/os/uboot/include/linux/compiler-gcc.h \
+ /home/leo/workspace/ruian_2wire/common/AK37E_SDK_V1.05_new/os/uboot/include/linux/compiler-gcc4.h \
+ /home/leo/workspace/ruian_2wire/common/AK37E_SDK_V1.05_new/os/uboot/include/linux/byteorder/swab.h \
+ /home/leo/workspace/ruian_2wire/common/AK37E_SDK_V1.05_new/os/uboot/include/linux/byteorder/generic.h \
+ /home/leo/workspace/ruian_2wire/common/AK37E_SDK_V1.05_new/os/uboot/include/asm/memory.h \
+ /home/leo/workspace/ruian_2wire/common/AK37E_SDK_V1.05_new/os/uboot/include/asm/arch-ak37e/ak_cpu.h

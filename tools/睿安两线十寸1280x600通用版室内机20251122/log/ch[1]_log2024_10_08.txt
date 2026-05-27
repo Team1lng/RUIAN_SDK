@@ -1,0 +1,84 @@
+=============Burn Information For Channel[1]=============
+Print Time: 2024-10-8 15:06:32
+
+ss g_udisk_burnnum: 0
+[15:06:32]work number = 1
+[15:06:32]burn_mode = 1, eMedium = 1
+[15:06:32]++Start download producer++
+producer path: producer_39xx.bin, addr=80000000
+[15:08:12]end work number = 0
+[15:08:12]++Burn success++
+[15:08:12]close file
+
+
+
+=============Burn Information For Channel[1]=============
+Print Time: 2024-10-8 15:13:12
+
+ss g_udisk_burnnum: 0
+[15:13:12]work number = 1
+[15:13:12]burn_mode = 1, eMedium = 1
+[15:13:12]++Start download producer++
+producer path: producer_39xx.bin, addr=80000000
+[15:14:53]end work number = 0
+[15:14:53]++Burn success++
+[15:14:53]close file
+
+
+
+=============Burn Information For Channel[1]=============
+Print Time: 2024-10-8 15:18:38
+
+ss g_udisk_burnnum: 0
+[15:18:38]work number = 1
+[15:18:38]burn_mode = 1, eMedium = 1
+[15:18:38]++Start download producer++
+producer path: producer_39xx.bin, addr=80000000
+[15:20:18]end work number = 0
+[15:20:18]++Burn success++
+[15:20:18]close file
+
+
+
+=============Burn Information For Channel[1]=============
+Print Time: 2024-10-8 15:24:41
+
+ss g_udisk_burnnum: 0
+[15:24:41]work number = 1
+[15:24:41]burn_mode = 1, eMedium = 1
+[15:24:41]++Start download producer++
+producer path: producer_39xx.bin, addr=80000000
+[15:26:21]end work number = 0
+[15:26:21]++Burn success++
+[15:26:21]close file
+
+
+
+=============Burn Information For Channel[1]=============
+Print Time: 2024-10-8 15:29:11
+
+ss g_udisk_burnnum: 0
+[15:29:11]work number = 1
+[15:29:11]burn_mode = 1, eMedium = 1
+[15:29:11]++Start download producer++
+producer path: producer_39xx.bin, addr=80000000
+[15:30:51]end work number = 0
+[15:30:51]++Burn success++
+[15:30:51]close file
+
+
+
+=============Burn Information For Channel[1]=============
+Print Time: 2024-10-8 15:32:37
+
+ss g_udisk_burnnum: 0
+[15:32:37]work number = 1
+[15:32:37]burn_mode = 1, eMedium = 1
+[15:32:38]++Start download producer++
+producer path: producer_39xx.bin, addr=80000000
+[15:34:18]end work number = 0
+[15:34:18]++Burn success++
+[15:34:18]close file
+
+
+

@@ -1,0 +1,11 @@
+jffs2_1pass.c:816:1:jffs2_1pass_find_inode	48	static
+jffs2_1pass.c:989:1:jffs2_1pass_search_inode	544	static
+jffs2_1pass.c:544:1:insert_node	16	static
+jffs2_1pass.c:657:1:jffs2_free_cache	16	static
+jffs2_1pass.c:864:7:mkmodestr	32	static
+jffs2_1pass.c:1121:1:jffs2_1pass_search_list_inodes.constprop	1064	static
+jffs2_1pass.c:1169:1:jffs2_1pass_rescan_needed	32	static
+jffs2_1pass.c:1766:1:jffs2_get_list	64	static
+jffs2_1pass.c:1783:1:jffs2_1pass_ls	8	static
+jffs2_1pass.c:1809:1:jffs2_1pass_load	304	static
+jffs2_1pass.c:1842:1:jffs2_1pass_info	176	static

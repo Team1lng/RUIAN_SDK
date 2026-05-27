@@ -1,0 +1,39 @@
+
+
+=============Transc Information =============
+Print Time: 2025-07-18 14:24:00
+
+[14:24:00]BT_CommitTransc fail
+[14:24:00]BT_DownLoadCmd fail
+[14:24:00]BT_DownLoad fail
+
+
+=============Transc Information =============
+Print Time: 2025-07-18 14:25:53
+
+[14:25:53]BT_CommitTransc fail
+[14:25:53]BT_DownLoadCmd fail
+[14:25:53]BT_DownLoad fail
+
+
+=============Transc Information =============
+Print Time: 2025-07-18 14:35:34
+
+[14:35:34]BT_CommitTransc fail
+[14:35:34]BT_DownLoadCmd fail
+[14:35:34]BT_DownLoad fail
+
+
+=============Transc Information =============
+Print Time: 2025-07-18 14:45:09
+
+[14:45:09]BT_CommitTransc fail
+[14:45:09]BT_DownLoadCmd fail
+[14:45:09]BT_DownLoad fail
+
+
+=============Transc Information =============
+Print Time: 2025-07-18 20:34:00
+
+[20:34:00]87
+[20:34:00]deviceDesc NULL 

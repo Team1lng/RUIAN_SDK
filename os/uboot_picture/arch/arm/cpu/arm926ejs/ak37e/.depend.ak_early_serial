@@ -1,0 +1,4 @@
+ak_early_serial.o: ak_early_serial.c \
+ /home/cyy/share/Ryan-2Wire/ryan-2wire/ryan-new-app-and-sdk/AK37E_SDK_V1.05_new/os/uboot/include/asm/arch-ak37e/ak_cpu.h \
+ /home/cyy/share/Ryan-2Wire/ryan-2wire/ryan-new-app-and-sdk/AK37E_SDK_V1.05_new/os/uboot/include/asm/arch-ak37e/ak_l2buf.h \
+ /home/cyy/share/Ryan-2Wire/ryan-2wire/ryan-new-app-and-sdk/AK37E_SDK_V1.05_new/os/uboot/include/asm/arch-ak37e/ak_types.h

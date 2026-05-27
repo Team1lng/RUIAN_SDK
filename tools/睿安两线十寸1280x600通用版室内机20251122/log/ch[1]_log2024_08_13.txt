@@ -1,0 +1,81 @@
+=============Burn Information For Channel[1]=============
+Print Time: 2024-8-13 08:51:14
+
+ss g_udisk_burnnum: 0
+[08:51:14]work number = 1
+[08:51:14]burn_mode = 1, eMedium = 1
+[08:51:14]++Start download producer++
+producer path: producer_39xx.bin, addr=80000000
+[08:52:56]end work number = 0
+[08:52:56]++Burn success++
+[08:52:56]close file
+
+
+
+=============Burn Information For Channel[1]=============
+Print Time: 2024-8-13 09:09:34
+
+ss g_udisk_burnnum: 0
+[09:09:34]work number = 1
+[09:09:34]burn_mode = 1, eMedium = 1
+[09:09:35]++Start download producer++
+producer path: producer_39xx.bin, addr=80000000
+[09:11:16]end work number = 0
+[09:11:16]++Burn success++
+[09:11:16]close file
+
+
+
+=============Burn Information For Channel[1]=============
+Print Time: 2024-8-13 09:47:17
+
+ss g_udisk_burnnum: 0
+[09:47:17]work number = 1
+[09:47:17]burn_mode = 1, eMedium = 1
+[09:47:18]++Start download producer++
+producer path: producer_39xx.bin, addr=80000000
+[09:48:59]end work number = 0
+[09:48:59]++Burn success++
+[09:48:59]close file
+
+
+
+=============Burn Information For Channel[1]=============
+Print Time: 2024-8-13 09:52:51
+
+ss g_udisk_burnnum: 0
+[09:52:51]work number = 1
+[09:52:51]burn_mode = 1, eMedium = 1
+[09:52:51]++Start download producer++
+producer path: producer_39xx.bin, addr=80000000
+[09:54:32]end work number = 0
+[09:54:32]++Burn success++
+[09:54:32]close file
+
+
+
+=============Burn Information For Channel[1]=============
+Print Time: 2024-8-13 10:04:27
+
+ss g_udisk_burnnum: 0
+[10:04:27]work number = 1
+[10:04:27]burn_mode = 1, eMedium = 1
+[10:04:27]Burn_GetRegValue fail
+[10:04:27]close file
+
+
+
+=============Burn Information For Channel[1]=============
+Print Time: 2024-8-13 15:12:19
+
+ss g_udisk_burnnum: 0
+[15:12:19]work number = 1
+[15:12:19]burn_mode = 1, eMedium = 1
+[15:12:19]++Start download producer++
+producer path: producer_39xx.bin, addr=80000000
+[15:13:59]end work number = 0
+[15:13:59]++Burn success++
+[15:13:59]close file
+
+
+

@@ -1,0 +1,9 @@
+crc16.o: crc16.c \
+ /home/cyy/share/Ryan-2Wire/ryan-2wire/ryan-new-app-and-sdk/AK37E_SDK_V1.05_new/os/uboot/include/crc.h \
+ /home/cyy/share/Ryan-2Wire/ryan-2wire/ryan-new-app-and-sdk/AK37E_SDK_V1.05_new/os/uboot/include/linux/types.h \
+ /home/cyy/share/Ryan-2Wire/ryan-2wire/ryan-new-app-and-sdk/AK37E_SDK_V1.05_new/os/uboot/include/linux/config.h \
+ /home/cyy/share/Ryan-2Wire/ryan-2wire/ryan-new-app-and-sdk/AK37E_SDK_V1.05_new/os/uboot/include/linux/posix_types.h \
+ /home/cyy/share/Ryan-2Wire/ryan-2wire/ryan-new-app-and-sdk/AK37E_SDK_V1.05_new/os/uboot/include/linux/stddef.h \
+ /home/cyy/share/Ryan-2Wire/ryan-2wire/ryan-new-app-and-sdk/AK37E_SDK_V1.05_new/os/uboot/include/asm/posix_types.h \
+ /home/cyy/share/Ryan-2Wire/ryan-2wire/ryan-new-app-and-sdk/AK37E_SDK_V1.05_new/os/uboot/include/asm/types.h \
+ /opt/arm-anykav500-linux-uclibcgnueabi/lib/gcc/arm-anykav500-linux-uclibcgnueabi/4.9.4/include/stdbool.h

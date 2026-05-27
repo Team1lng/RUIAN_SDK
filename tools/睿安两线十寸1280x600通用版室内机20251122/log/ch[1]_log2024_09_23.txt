@@ -1,0 +1,352 @@
+=============Burn Information For Channel[1]=============
+Print Time: 2024-9-23 16:47:19
+
+ss g_udisk_burnnum: 0
+[16:47:19]work number = 1
+[16:47:19]burn_mode = 1, eMedium = 1
+[16:47:21]Burn_SetRamParam fail
+[16:47:21]close file
+
+
+
+=============Burn Information For Channel[1]=============
+Print Time: 2024-9-23 16:47:23
+
+ss g_udisk_burnnum: 0
+[16:47:23]work number = 1
+[16:47:23]burn_mode = 1, eMedium = 1
+[16:47:26]Burn_SetRamParam fail
+[16:47:26]close file
+
+
+
+=============Burn Information For Channel[1]=============
+Print Time: 2024-9-23 16:47:50
+
+ss g_udisk_burnnum: 0
+[16:47:50]work number = 1
+[16:47:50]burn_mode = 1, eMedium = 1
+[16:47:53]Burn_SetRamParam fail
+[16:47:53]close file
+
+
+
+=============Burn Information For Channel[1]=============
+Print Time: 2024-9-23 16:47:55
+
+ss g_udisk_burnnum: 0
+[16:47:55]work number = 1
+[16:47:55]burn_mode = 1, eMedium = 1
+[16:47:57]Burn_SetRamParam fail
+[16:47:57]close file
+
+
+
+=============Burn Information For Channel[1]=============
+Print Time: 2024-9-23 16:48:00
+
+ss g_udisk_burnnum: 0
+[16:48:00]work number = 1
+[16:48:00]burn_mode = 1, eMedium = 1
+[16:48:02]Burn_SetRamParam fail
+[16:48:02]close file
+
+
+
+=============Burn Information For Channel[1]=============
+Print Time: 2024-9-23 16:48:05
+
+ss g_udisk_burnnum: 0
+[16:48:05]work number = 1
+[16:48:05]burn_mode = 1, eMedium = 1
+[16:48:07]Burn_SetRamParam fail
+[16:48:07]close file
+
+
+
+=============Burn Information For Channel[1]=============
+Print Time: 2024-9-23 16:48:09
+
+ss g_udisk_burnnum: 0
+[16:48:09]work number = 1
+[16:48:09]burn_mode = 1, eMedium = 1
+[16:48:12]Burn_SetRamParam fail
+[16:48:12]close file
+
+
+
+=============Burn Information For Channel[1]=============
+Print Time: 2024-9-23 16:48:14
+
+ss g_udisk_burnnum: 0
+[16:48:14]work number = 1
+[16:48:14]burn_mode = 1, eMedium = 1
+[16:48:16]Burn_SetRamParam fail
+[16:48:16]close file
+
+
+
+=============Burn Information For Channel[1]=============
+Print Time: 2024-9-23 16:48:18
+
+ss g_udisk_burnnum: 0
+[16:48:18]work number = 1
+[16:48:18]burn_mode = 1, eMedium = 1
+[16:48:20]Burn_SetRamParam fail
+[16:48:20]close file
+
+
+
+=============Burn Information For Channel[1]=============
+Print Time: 2024-9-23 16:48:22
+
+ss g_udisk_burnnum: 0
+[16:48:22]work number = 1
+[16:48:22]burn_mode = 1, eMedium = 1
+[16:48:23]Burn_SetRamParam fail
+[16:48:23]close file
+
+
+
+=============Burn Information For Channel[1]=============
+Print Time: 2024-9-23 16:49:00
+
+ss g_udisk_burnnum: 0
+[16:49:00]work number = 1
+[16:49:00]burn_mode = 1, eMedium = 1
+[16:49:03]Burn_SetRamParam fail
+[16:49:03]close file
+
+
+
+=============Burn Information For Channel[1]=============
+Print Time: 2024-9-23 16:49:05
+
+ss g_udisk_burnnum: 0
+[16:49:05]work number = 1
+[16:49:05]burn_mode = 1, eMedium = 1
+[16:49:08]Burn_SetRamParam fail
+[16:49:08]close file
+
+
+
+=============Burn Information For Channel[1]=============
+Print Time: 2024-9-23 16:49:10
+
+ss g_udisk_burnnum: 0
+[16:49:10]work number = 1
+[16:49:10]burn_mode = 1, eMedium = 1
+[16:49:10]Burn_SetRamParam fail
+[16:49:10]close file
+
+
+
+=============Burn Information For Channel[1]=============
+Print Time: 2024-9-23 16:57:16
+
+ss g_udisk_burnnum: 0
+[16:57:16]work number = 1
+[16:57:16]burn_mode = 1, eMedium = 1
+[16:57:19]Burn_SetRamParam fail
+[16:57:19]close file
+
+
+
+=============Burn Information For Channel[1]=============
+Print Time: 2024-9-23 16:57:21
+
+ss g_udisk_burnnum: 0
+[16:57:21]work number = 1
+[16:57:21]burn_mode = 1, eMedium = 1
+[16:57:24]Burn_SetRamParam fail
+[16:57:24]close file
+
+
+
+=============Burn Information For Channel[1]=============
+Print Time: 2024-9-23 16:57:26
+
+ss g_udisk_burnnum: 0
+[16:57:26]work number = 1
+[16:57:26]burn_mode = 1, eMedium = 1
+[16:57:29]Burn_SetRamParam fail
+[16:57:29]close file
+
+
+
+=============Burn Information For Channel[1]=============
+Print Time: 2024-9-23 16:57:32
+
+ss g_udisk_burnnum: 0
+[16:57:32]work number = 1
+[16:57:32]burn_mode = 1, eMedium = 1
+[16:57:34]Burn_SetRamParam fail
+[16:57:34]close file
+
+
+
+=============Burn Information For Channel[1]=============
+Print Time: 2024-9-23 16:57:36
+
+ss g_udisk_burnnum: 0
+[16:57:36]work number = 1
+[16:57:36]burn_mode = 1, eMedium = 1
+[16:57:39]Burn_SetRamParam fail
+[16:57:39]close file
+
+
+
+=============Burn Information For Channel[1]=============
+Print Time: 2024-9-23 16:57:41
+
+ss g_udisk_burnnum: 0
+[16:57:41]work number = 1
+[16:57:41]burn_mode = 1, eMedium = 1
+[16:57:44]Burn_SetRamParam fail
+[16:57:44]close file
+
+
+
+=============Burn Information For Channel[1]=============
+Print Time: 2024-9-23 16:57:46
+
+ss g_udisk_burnnum: 0
+[16:57:46]work number = 1
+[16:57:46]burn_mode = 1, eMedium = 1
+[16:57:48]Burn_SetRamParam fail
+[16:57:48]close file
+
+
+
+=============Burn Information For Channel[1]=============
+Print Time: 2024-9-23 16:57:56
+
+ss g_udisk_burnnum: 0
+[16:57:56]work number = 1
+[16:57:56]burn_mode = 1, eMedium = 1
+[16:57:58]Burn_SetRamParam fail
+[16:57:58]close file
+
+
+
+=============Burn Information For Channel[1]=============
+Print Time: 2024-9-23 16:58:01
+
+ss g_udisk_burnnum: 0
+[16:58:01]work number = 1
+[16:58:01]burn_mode = 1, eMedium = 1
+[16:58:03]Burn_SetRamParam fail
+[16:58:03]close file
+
+
+
+=============Burn Information For Channel[1]=============
+Print Time: 2024-9-23 16:58:06
+
+ss g_udisk_burnnum: 0
+[16:58:06]work number = 1
+[16:58:06]burn_mode = 1, eMedium = 1
+[16:58:08]Burn_SetRamParam fail
+[16:58:08]close file
+
+
+
+=============Burn Information For Channel[1]=============
+Print Time: 2024-9-23 16:58:10
+
+ss g_udisk_burnnum: 0
+[16:58:10]work number = 1
+[16:58:10]burn_mode = 1, eMedium = 1
+[16:58:13]Burn_SetRamParam fail
+[16:58:13]close file
+
+
+
+=============Burn Information For Channel[1]=============
+Print Time: 2024-9-23 16:58:14
+
+ss g_udisk_burnnum: 0
+[16:58:14]work number = 1
+[16:58:14]burn_mode = 1, eMedium = 1
+[16:58:17]Burn_SetRamParam fail
+[16:58:17]close file
+
+
+
+=============Burn Information For Channel[1]=============
+Print Time: 2024-9-23 16:58:19
+
+ss g_udisk_burnnum: 0
+[16:58:19]work number = 1
+[16:58:19]burn_mode = 1, eMedium = 1
+[16:58:22]Burn_SetRamParam fail
+[16:58:22]close file
+
+
+
+=============Burn Information For Channel[1]=============
+Print Time: 2024-9-23 16:58:24
+
+ss g_udisk_burnnum: 0
+[16:58:24]work number = 1
+[16:58:24]burn_mode = 1, eMedium = 1
+[16:58:26]Burn_SetRamParam fail
+[16:58:26]close file
+
+
+
+=============Burn Information For Channel[1]=============
+Print Time: 2024-9-23 16:58:29
+
+ss g_udisk_burnnum: 0
+[16:58:29]work number = 1
+[16:58:29]burn_mode = 1, eMedium = 1
+[16:58:32]Burn_SetRamParam fail
+[16:58:32]close file
+
+
+
+=============Burn Information For Channel[1]=============
+Print Time: 2024-9-23 16:58:34
+
+ss g_udisk_burnnum: 0
+[16:58:34]work number = 1
+[16:58:34]burn_mode = 1, eMedium = 1
+[16:58:36]Burn_SetRamParam fail
+[16:58:36]close file
+
+
+
+=============Burn Information For Channel[1]=============
+Print Time: 2024-9-23 16:58:38
+
+ss g_udisk_burnnum: 0
+[16:58:38]work number = 1
+[16:58:38]burn_mode = 1, eMedium = 1
+[16:58:41]Burn_SetRamParam fail
+[16:58:41]close file
+
+
+
+=============Burn Information For Channel[1]=============
+Print Time: 2024-9-23 16:58:42
+
+ss g_udisk_burnnum: 0
+[16:58:42]work number = 1
+[16:58:42]burn_mode = 1, eMedium = 1
+[16:58:45]Burn_SetRamParam fail
+[16:58:45]close file
+
+
+
+=============Burn Information For Channel[1]=============
+Print Time: 2024-9-23 16:58:47
+
+ss g_udisk_burnnum: 0
+[16:58:47]work number = 1
+[16:58:47]burn_mode = 1, eMedium = 1
+[16:58:50]Burn_SetRamParam fail
+[16:58:50]close file
+
+
+
